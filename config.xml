@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.rescolor"
+        versionCode="1" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Resistor Color</name>
+
+    <description>
+        Graphical resistance calculator app. 
+    </description>
+
+    <author href="https://redacacia.me" email="tayeb.habib@gmail.com">
+        Tayeb Habib 
+    </author>
+    <icon src="images/icon.png"/>
+    <content src="index.html"/>
+</widget>
